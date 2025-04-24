@@ -8,7 +8,6 @@ A classic memory game built using **HTML**, **CSS**, and **JavaScript**. Repeat 
 ## 🚀 Demo
 
 [Play the Game](https://github.com/dipanshu056/Simon-Play-Game)  
-*Replace `#` with your deployed game link (GitHub Pages, Netlify, etc.)*
 
 ---
 
